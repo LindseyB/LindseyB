@@ -1,4 +1,5 @@
-![](https://media1.tenor.com/images/d99f48ccd6aa3b601a01de7faad874a8/tenor.gif?itemid=4978937)
+![welcome to my homepage](https://user-images.githubusercontent.com/33750/198128699-0659540b-06e6-405f-a483-18cac85a30e9.png)
+
 
 <!--
 **LindseyB/LindseyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
