@@ -1,5 +1,7 @@
 ![welcome to my homepage](https://user-images.githubusercontent.com/33750/198128699-0659540b-06e6-405f-a483-18cac85a30e9.png)
 
+![](https://camo.githubusercontent.com/4a7cf94aedbd23c13cc2d75fdc3b2af5c816c208/687474703a2f2f7374617469632e646967672e636f6d2f7374617469632f696d616765732f6469676765722e676966)
+
 
 <!--
 **LindseyB/LindseyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
