@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a rel="me" href="https://witches.live/@lindsey">Mastodon</a>
+
 
 <a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter4.stat.ovh/private/freecounterstat.php?c=u81w6cnmbhmf667lstusffmw2ezkmg2w" border="0" title="hit counter" alt="hit counter"></a>
