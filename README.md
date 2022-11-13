@@ -27,6 +27,9 @@ A software engineer
 * 🐞 [LindseyB](https://cohost.org/lindseyb)
 * 📚 [Lindsey B](https://www.goodreads.com/user/show/1983664-lindsey-b)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindseyb&show_icons=true&locale=en&layout=compact" alt="lindseyb" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindseyb&show_icons=true&locale=en" alt="lindseyb" />
-<img src="https://komarev.com/ghpvc/?username=lindseyb&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lindseyb" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindseyb&show_icons=true&locale=en&layout=compact" alt="dynmaically generated github stats lindseyb showing mosted used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindseyb&show_icons=true&locale=en" alt="dynamically generated github stats for lindseyb showing activity" />
+<img src="https://media.tenor.com/giv7or2XPBQAAAAC/louise-bobsburgers.gif" alt="Louise belcher dancing">
+
+
+<img src="https://komarev.com/ghpvc/?username=lindseyb&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lindseyb page view counter for this profile" />
