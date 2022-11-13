@@ -1,24 +1,32 @@
-![welcome to my homepage](https://user-images.githubusercontent.com/33750/198128699-0659540b-06e6-405f-a483-18cac85a30e9.png)
+Hi 👋, I'm Lindsey Bieda
 
-![](https://camo.githubusercontent.com/4a7cf94aedbd23c13cc2d75fdc3b2af5c816c208/687474703a2f2f7374617469632e646967672e636f6d2f7374617469632f696d616765732f6469676765722e676966)
-
-
-<!--
-**LindseyB/LindseyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a rel="me" href="https://witches.live/@lindsey">Mastodon</a>
+A software engineer 
+ 
 
 
-<a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter4.stat.ovh/private/freecounterstat.php?c=u81w6cnmbhmf667lstusffmw2ezkmg2w" border="0" title="hit counter" alt="hit counter"></a>
+- 🔭 I’m currently working on [the site you are looking at](github.com)
+
+- 👨‍💻 All of my projects are available at [https://rarlindseysmash.com/](https://rarlindseysmash.com/)
+
+- 💬 Ask me about **generating gifs, rails, making weird games**
+
+- 📫 How to reach me lindsey@rarlindseysmash.com
+
+- 📄 Resume over here [https://lindseyb.github.io/resume/](https://lindseyb.github.io/resume/)
+
+- ⚡ Fun fact **I read over 60 books every year.**
+
+## Connect with me:
+
+* 🐦 [@LindseyBieda](https://twitter.com/LindseyBieda)
+* 📸 [@LindseyBieda](https://instagram.com/LindseyBieda)
+* 👩🏻‍💻 [@LindseyB](https://github.com/LindseyB)
+* 🕹️ [LindseyBieda](https://lindseybieda.itch.io)
+* 📺 [BeEkkoDoCrimes](https://www.twitch.tv/beekkodocrimes/)
+* 🐘 [@lindsey@witches.live](https://witches.live/@lindsey)
+* 🐞 [LindseyB](https://cohost.org/lindseyb)
+* 📚 [Lindsey B](https://www.goodreads.com/user/show/1983664-lindsey-b)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindseyb&show_icons=true&locale=en&layout=compact" alt="lindseyb" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindseyb&show_icons=true&locale=en" alt="lindseyb" />
+<img src="https://komarev.com/ghpvc/?username=lindseyb&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lindseyb" />
