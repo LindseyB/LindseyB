@@ -4,7 +4,7 @@ A software engineer
  
 
 
-- 🔭 I’m currently working on [the site you are looking at](github.com)
+- 🔭 I’m currently working on [the site you are looking at](https://github.com)
 
 - 👨‍💻 All of my projects are available at [https://rarlindseysmash.com/](https://rarlindseysmash.com/)
 
