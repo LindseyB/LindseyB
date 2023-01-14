@@ -33,3 +33,5 @@ A software engineer
 
 
 <img src="https://komarev.com/ghpvc/?username=lindseyb&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lindseyb page view counter for this profile" />
+
+<img src="https://cyber.dabamos.de/88x31/notepad6.gif" alt="made with notepade the right way">
