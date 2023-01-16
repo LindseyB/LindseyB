@@ -23,7 +23,7 @@ A software engineer
 * 👩🏻‍💻 [@LindseyB](https://github.com/LindseyB)
 * 🕹️ [LindseyBieda](https://lindseybieda.itch.io)
 * 📺 [BeEkkoDoCrimes](https://www.twitch.tv/beekkodocrimes/)
-* 🐘 <a rel="me" href="https://witchhat.house/@lindsey">mastodon</a>
+* 🐘 <a rel="me" href="https://witches.rest/@lindsey">mastodon</a>
 * 🐞 [LindseyB](https://cohost.org/lindseyb)
 * 📚 [Lindsey B](https://www.goodreads.com/user/show/1983664-lindsey-b)
 
