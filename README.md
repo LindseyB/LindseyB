@@ -27,7 +27,7 @@ An engineering manager
 * 📚 [Lindsey B](https://www.goodreads.com/user/show/1983664-lindsey-b)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n9wprvady9hfay52nxiu0a4hj&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=d13dc0)](https://spotify-github-profile.vercel.app/api/view?uid=n9wprvady9hfay52nxiu0a4hj&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n9wprvady9hfay52nxiu0a4hj&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=d13dc0)](https://spotify-github-profile.kittinanx.com/api/view?uid=n9wprvady9hfay52nxiu0a4hj&redirect=true)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindseyb&show_icons=true&locale=en&layout=compact" alt="dynmaically generated github stats lindseyb showing most used languages" />
 
