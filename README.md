@@ -1,18 +1,13 @@
 
 Hi 👋, I'm Lindsey Bieda
 
-An engineering manager 
+An engineering manager currently working on [GitHub Models](https://github.com/marketplace/models)
 
 - 🔭 I’m currently working on [the site you are looking at](https://github.com)
-
 - 👨‍💻 All of my projects are available at [https://rarlindseysmash.com/](https://rarlindseysmash.com/)
-
 - 💬 Ask me about **generating gifs, rails, making weird games**
-
 - 📫 How to reach me lindsey@rarlindseysmash.com
-
 - 📄 Resume over here [https://lindseyb.github.io/resume/](https://lindseyb.github.io/resume/)
-
 - ⚡ Fun fact **I read over 60 books every year.**
 
 ## Connect with me:
