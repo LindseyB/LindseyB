@@ -17,13 +17,12 @@ An engineering manager
 
 ## Connect with me:
 
-* 🐦 [@LindseyBieda](https://twitter.com/LindseyBieda)
+* 🦋 [@lindseyb.bsky.social](https://bsky.app/profile/lindseyb.bsky.social)
 * 📸 [@LindseyBieda](https://instagram.com/LindseyBieda)
 * 👩🏻‍💻 [@LindseyB](https://github.com/LindseyB)
 * 🕹️ [LindseyBieda](https://lindseybieda.itch.io)
 * 📺 [BeEkkoDoCrimes](https://www.twitch.tv/beekkodocrimes/)
 * 🐘 <a rel="me" href="https://witches.rest/@lindsey">mastodon</a>
-* 🐞 [LindseyB](https://cohost.org/lindseyb)
 * 📚 [Lindsey B](https://www.goodreads.com/user/show/1983664-lindsey-b)
 
 
