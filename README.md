@@ -16,9 +16,11 @@ An engineering manager currently working on [GitHub Models](https://github.com/m
 * 📸 [@LindseyBieda](https://instagram.com/LindseyBieda)
 * 👩🏻‍💻 [@LindseyB](https://github.com/LindseyB)
 * 🕹️ [LindseyBieda](https://lindseybieda.itch.io)
-* 📺 [BeEkkoDoCrimes](https://www.twitch.tv/beekkodocrimes/)
+* 📺 [f0xg10v3](https://www.twitch.tv/f0xg10v3)
 * 🐘 <a rel="me" href="https://witches.rest/@lindsey">mastodon</a>
 * 📚 [Lindsey B](https://www.goodreads.com/user/show/1983664-lindsey-b)
+* 🎵 [BeEkkoDoCrimes](https://www.last.fm/user/BeEkkoDoCrimes)
+* 💿 [My record collection](https://www.discogs.com/user/ekko_/collection)
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n9wprvady9hfay52nxiu0a4hj&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=d13dc0)](https://spotify-github-profile.kittinanx.com/api/view?uid=n9wprvady9hfay52nxiu0a4hj&redirect=true)
