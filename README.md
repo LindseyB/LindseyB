@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Lindsey Bieda
+Hi 👋, I'm Lindsey B
 
 An engineering manager currently working on [GitHub Models](https://github.com/marketplace/models)
 
