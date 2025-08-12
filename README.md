@@ -19,7 +19,7 @@ An engineering manager currently working on [GitHub Models](https://github.com/m
 * 📺 [f0xg10v3](https://www.twitch.tv/f0xg10v3)
 * 🐘 <a rel="me" href="https://witches.rest/@lindsey">mastodon</a>
 * 📚 [Lindsey B](https://www.goodreads.com/user/show/1983664-lindsey-b)
-* 🎵 [BeEkkoDoCrimes](https://www.last.fm/user/BeEkkoDoCrimes)
+* 🎵 [f0xglove](https://www.last.fm/user/f0xglove)
 * 💿 [My record collection](https://www.discogs.com/user/ekko_/collection)
 
 
