@@ -12,7 +12,7 @@ An engineering manager currently working on [GitHub Models](https://github.com/m
 
 ## Connect with me:
 
-* 🦋 [@lindseyb.bsky.social](https://bsky.app/profile/lindseyb.bsky.social)
+* 🦋 [@lindsey.codes](https://bsky.app/profile/lindsey.codes)
 * 📸 [@LindseyBieda](https://instagram.com/LindseyBieda)
 * 👩🏻‍💻 [@LindseyB](https://github.com/LindseyB)
 * 🕹️ [LindseyBieda](https://lindseybieda.itch.io)
