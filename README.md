@@ -1,14 +1,13 @@
 
 Hi 👋, I'm Lindsey B
 
-An engineering manager currently working on [GitHub Models](https://github.com/marketplace/models)
+I'm an an engineering manager 
 
-- 🔭 I’m currently working on [the site you are looking at](https://github.com)
-- 👨‍💻 All of my projects are available at [https://rarlindseysmash.com/](https://rarlindseysmash.com/)
-- 💬 Ask me about **generating gifs, rails, making weird games**
-- 📫 How to reach me lindsey@rarlindseysmash.com
-- 📄 Resume over here [https://lindseyb.github.io/resume/](https://lindseyb.github.io/resume/)
-- ⚡ Fun fact **I read over 60 books every year.**
+* 👨‍💻 All of my projects are available at [https://lindsey.codes](https://lindsey.codes)
+* 💬 Ask me about **generating gifs, rails, making weird games**
+* 📫 How to reach me lindsey@rarlindseysmash.com
+* 📄 Resume over here [https://lindseyb.github.io/resume/](https://lindseyb.github.io/resume/)
+* ⚡ Fun fact **I read over 60 books every year.**
 
 ## Connect with me:
 
@@ -21,6 +20,13 @@ An engineering manager currently working on [GitHub Models](https://github.com/m
 * 📚 [Lindsey B](https://www.goodreads.com/user/show/1983664-lindsey-b)
 * 🎵 [f0xglove](https://www.last.fm/user/f0xglove)
 * 💿 [My record collection](https://www.discogs.com/user/ekko_/collection)
+
+## Other stuff 
+
+* 🔭 [My astrophotography](https://lindseyb.github.io/astrophotography/)
+* 🎨 [My art](https://lindseyb.github.io/fART/)
+
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n9wprvady9hfay52nxiu0a4hj&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=d13dc0)](https://spotify-github-profile.kittinanx.com/api/view?uid=n9wprvady9hfay52nxiu0a4hj&redirect=true)
