@@ -1,7 +1,7 @@
 
 Hi 👋, I'm Lindsey B
 
-I'm an an engineering manager 
+I'm an an engineering manager at LaunchDarkly
 
 * 👨‍💻 All of my projects are available at [https://lindsey.codes](https://lindsey.codes)
 * 💬 Ask me about **generating gifs, rails, making weird games**
