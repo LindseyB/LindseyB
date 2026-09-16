@@ -28,8 +28,7 @@ I'm an an engineering manager at LaunchDarkly
 
 
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n9wprvady9hfay52nxiu0a4hj&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=d13dc0)](https://spotify-github-profile.kittinanx.com/api/view?uid=n9wprvady9hfay52nxiu0a4hj&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n9wprvady9hfay52nxiu0a4hj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 <img src="https://media.tenor.com/giv7or2XPBQAAAAC/louise-bobsburgers.gif" alt="Louise belcher dancing">
 
